@@ -144,10 +144,11 @@ pip install torch torchvision liboqs-python numpy
 ## ▶️ Usage
 
 The project is organized across multiple Jupyter notebooks, each covering one experimental phase:
-1. Baseline comparison (Vanilla FL / DH-secured FL / PQC-FL)
+1. Baseline Setup (Vanilla FL / DH-secured FL / PQC-FL)
 2. PQC algorithm combination comparison
 3. IID vs. Non-IID evaluation
 4. Adaptive delegation threshold sweep
+5. Final Results
 
 Run each notebook top-to-bottom in Google Colab (or a local Jupyter environment with a GPU) to reproduce the corresponding results tables and figures.
 
